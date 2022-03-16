@@ -1,5 +1,7 @@
 # Docker Mbed Cli
 
+>> Mbed Os now has an official docker image, see [https://github.com/ARMmbed/mbed-os/pkgs/container/mbed-os-env](https://github.com/ARMmbed/mbed-os/pkgs/container/mbed-os-env)
+
 This is an un-official  [mbed-cli](https://os.mbed.com/docs/mbed-os/v5.12/tools/developing-mbed-cli.html) docker image. Currently it only supports `GCC Arm` as its default compiler.
 
 ## Building
